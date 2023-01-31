@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: Lab for Architectural &amp; Urban Space # your site title
+title: Lab for Architectural & Urban Space 건축도시공간연구실 # your site title
 author: bumjoon User # You :P
 description: > # Meta description of Homepage
   Write an awesome description for your new site here. You can edit this
@@ -26,7 +26,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  서울대학교 건축학과 건축도시공간연구실 | Department of Architecture &amp; Architectural Engineering, College of Engineering, Seoul National University # Modern Jekyll theme focused on speed performance &amp; SEO best practices
+  서울대학교 공과대학 건축학과 Department of Architecture &amp; Architectural Engineering, College of Engineering, Seoul National University
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
 
