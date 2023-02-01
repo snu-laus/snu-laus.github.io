@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-title: | # your site title
+title: > # your site title
   Lab for Architectural & Urban Space
   건축도시공간연구실 
 author: LAUS # You :P
