@@ -1,10 +1,13 @@
 # SITE CONFIGURATION
-title: > # your site title
+title: | # your site title
   Lab for Architectural & Urban Space
+  
   건축도시공간연구실 
 author: LAUS # You :P
 description: > # Meta description of Homepage
-  Lab for Architectural & Urban Space, Department of Architecture & Architectural Engineering, College of Engineering, Seoul National University
+  Lab for Architectural & Urban Space, 
+  Department of Architecture & Architectural Engineering, 
+  College of Engineering, Seoul National University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://snu-laus.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
