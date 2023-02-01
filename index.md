@@ -5,5 +5,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: default
-title: Sleek Jekyll Theme
+title: 건축도시공간연구실 @ 서울대학교 건축학과
 ---
