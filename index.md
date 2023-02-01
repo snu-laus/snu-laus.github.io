@@ -4,6 +4,7 @@
 # Edit sleeks's default layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: default
-title: 건축도시공간연구실 @ 서울대학교 건축학과
+layout: page
+title: 건축도시공간연구실
+secondtitle: Lab for Architectural & Urban Space
 ---
