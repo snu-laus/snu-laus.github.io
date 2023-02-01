@@ -1,7 +1,6 @@
 # SITE CONFIGURATION
 title: | # your site title
-  Lab for Architectural & Urban Space
-  건축도시공간연구실 
+  건축도시공간연구실 LAUS   
 author: LAUS # You :P
 description: > # Meta description of Homepage
   Lab for Architectural & Urban Space, 
@@ -32,7 +31,9 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: |
-  서울대학교 공과대학 건축학과 
+  서울대학교 공과대학 건축학과 Lab for Architectural & Urban Space
+  
+  
   Department of Architecture & Architectural Engineering, College of Engineering, Seoul National University
 
 hero_img: posts/sleek_lg.jpg # Main background image: use the path from /assets/img/ => This will output /assets/img/posts/sleek_lg.jpg
