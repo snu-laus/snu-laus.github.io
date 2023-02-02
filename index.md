@@ -13,7 +13,7 @@ secondtitle: Lab for Architectural & Urban Space
 
 1999년 설립 이후 현재에 이르기까지 공간계획과 기획에 관련한 여러 연구를 수행하고 있습니다.
 
-## Research Areas
+## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
     {% assign areas = site.areas %} 
