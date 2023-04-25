@@ -4,10 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Sleek is a modern Jekyll theme focused on speed performance & SEO best practices. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/) or simply read the guide on how to [get started](/getting-started)
+#### Vision
 
-You can find the source code for the Jekyll new theme at:
-[sleek](https://github.com/janczizikow/sleek)
-
-You can find the source code for Jekyll at
-[jekyll](https://github.com/jekyll/jekyll)
+건축도시공간연구실(LAUS)은 공간을 해석하고, 기획·계획하는 대학원 연구실입니다.
+건축 및 도시공간의 사회적·문화적 배경을 이해하고,
+논리적인 방법론을 통해 건조환경 계획을 발전시키고자 합니다.
