@@ -9,18 +9,6 @@ title: 건축도시공간연구실
 secondtitle: Lab for Architectural & Urban Space
 ---
 
-<hr/>
-<br/>
-<span style="font-family:Nanumsquare;font-size:1.3em;font-weight:normal;line-height:1.8em;">건축도시공간연구실(LAUS)은 건축과 도시공간을 분석하여<br/>더욱 인간적이고 합리적인 공간이 될 수 있는 방법을 연구하고 있습니다<br/>공간형태와 공간행태의 상호작용을 건축과 도시 스케일에서 살펴보고자 합니다</span>
-<br/><br/>
-
-<hr/>
-
-
-
-<br/><br/>
-
-
 ## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
