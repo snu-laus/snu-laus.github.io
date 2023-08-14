@@ -43,7 +43,7 @@ secondtitle: Lab for Architectural & Urban Space
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
     {% assign areas2 = site.news %} 
-    {% for area in areas2 %}
+    {% for area in areas2|slice:":3" %}
     {% include areacard.html %}
     {% endfor %}
     <!-- {% include pagination.html %} -->
