@@ -12,8 +12,8 @@ secondtitle: Lab for Architectural & Urban Space
 ## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign img1 = site.research %} 
-    {% for item in img1|slice:":3" %}
+    {% assign areas1 = site.research %} 
+    {% for area in areas1 %}
     {% include areacard.html %}
     {% endfor %}
     <!-- {% include pagination.html %} -->
@@ -42,8 +42,8 @@ secondtitle: Lab for Architectural & Urban Space
 ## News
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign img2 = site.news %} 
-    {% for item in img2|slice:":3" %}
+    {% assign areas2 = site.news %} 
+    {% for area in areas2 %}
     {% include areacard.html %}
     {% endfor %}
     <!-- {% include pagination.html %} -->
