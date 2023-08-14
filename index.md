@@ -9,6 +9,8 @@ title: 건축도시공간연구실
 secondtitle: Lab for Architectural & Urban Space
 ---
 
+<br/><br/>
+
 ## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
