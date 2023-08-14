@@ -86,88 +86,45 @@ secondtitle: Lab for Architectural & Urban Space
             <li class="carousel__slide">
                 <figure>
                     <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2023spring_main.jpg" width=100%>
+                      <img src="{{ site.url }}{{ site.baseurl }}/_img/main/Penguins.jpg" width=100%>
                     </div>
                     <figcaption>
-                        Naksan Park.
-                        <span class="credit">spring, 2023</span>
+                        Penguins.
+                        <span class="credit">001</span>
                     </figcaption>
                 </figure>
             </li>
             <li class="carousel__slide">
                 <figure>
                     <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2022fall_main.jpg" width=100%>
+                      <img src="{{ site.url }}{{ site.baseurl }}/_img/main/Desert.jpg" width=100%>
                     </div>
                     <figcaption>
-                        Olympic Park.
-                        <span class="credit">fall, 2022</span>                            
+                        Desert.
+                        <span class="credit">002</span>                            
                     </figcaption>
                 </figure>
             </li>
             <li class="carousel__slide">
                 <figure>
                     <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2022spring_main.jpg" width=100%>
+                      <img src="{{ site.url }}{{ site.baseurl }}/_img/main/Jellyfish.jpg" width=100%>
                     </div>
                     <figcaption>
-                        Seoul Forest.
-                        <span class="credit">spring, 2022</span>                            
+                        Jellyfish.
+                        <span class="credit">003</span>                            
                     </figcaption>
                 </figure>
             </li>
-            <li class="carousel__slide">
-                <figure>
-                    <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2021fall_main.png" width=100%>
-                    </div>
-                    <figcaption>
-                        National Museum of Korea.
-                        <span class="credit">fall, 2021</span>                            
-                    </figcaption>
-                </figure>
-            </li>
-            <li class="carousel__slide">
-                <figure>
-                    <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2021spring_main.jpg" width=100%>
-                    </div>
-                    <figcaption>
-                        Namsan Park.
-                        <span class="credit">spring, 2021</span>                            
-                    </figcaption>
-                </figure>
-            </li>
-            <li class="carousel__slide">
-                <figure>
-                    <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2020fall_main.jpg" width=100%>
-                    </div>
-                    <figcaption>
-                        Seoul Arts Center.
-                        <span class="credit">fall, 2020</span>                            
-                    </figcaption>
-                </figure>
-            </li>
-        </ul>    
         <ul class="carousel__thumbnails">
             <li>
-                <label for="slide-1"><img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2023spring_main.jpg"></label>
+                <label for="slide-1"><img src="{{ site.url }}{{ site.baseurl }}/_img/main/Penguins.jpg"></label>
             </li>
             <li>
-                <label for="slide-2"><img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2022fall_main.jpg"></label>
+                <label for="slide-2"><img src="{{ site.url }}{{ site.baseurl }}/_img/main/Desert.jpg"></label>
             </li>
             <li>
-                <label for="slide-3"><img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2022spring_main.jpg"></label>
-            </li>
-            <li>
-                <label for="slide-4"><img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2021fall_main.png"></label>
-            </li>
-            <li>
-                <label for="slide-5"><img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2021spring_main.jpg"></label>
-            </li>
-            <li>
-                <label for="slide-6"><img src="{{ site.url }}{{ site.baseurl }}/images/mainpic/2020fall_main.jpg"></label>
+                <label for="slide-3"><img src="{{ site.url }}{{ site.baseurl }}/_img/main/Jellyfish.jpg"></label>
             </li>
         </ul>
     </div>
