@@ -12,7 +12,8 @@ secondtitle: Lab for Architectural & Urban Space
 ## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign areas1 = site.areas | slice: 0, 3 %} 
+    {% assign sortedNews1 = site.areas | sort: 'date' | reverse %}
+    {% assign areas1 = sortedNews1 | slice: 0, 3 %}
     {% for area in areas1 %}
     {% include areacard.html %}
     {% endfor %}
@@ -42,7 +43,8 @@ secondtitle: Lab for Architectural & Urban Space
 ## News
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign areas2 = site.news | slice: 0, 3 %} 
+    {% assign sortedNews2 = site.news | sort: 'date' | reverse %}
+    {% assign areas2 = sortedNews2 | slice: 0, 3 %}
     {% for area in areas2 %}
     {% include areacard.html %}
     {% endfor %}
