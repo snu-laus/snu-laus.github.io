@@ -44,7 +44,7 @@ secondtitle: Lab for Architectural & Urban Space
 <div class="container">
     {% for images in site.main.20230801 %}
     <div style="border: 1px solid gold; float: left; width: 33%; padding:10px;">
-          <img src="{{ site.url }}{{ site.baseurl }}/img/main/{{ images.image }}"/> <br />
+          <img src="/img/main/{{ images.image }}"/> <br />
     </div>
     {{ images.title }} <br />
     {{ images.authors }} <br />
