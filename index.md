@@ -12,8 +12,9 @@ secondtitle: Lab for Architectural & Urban Space
 ## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign areas1 = site.search %} 
-    {% for area in areas1 %}
+    {% assign areas = site.areas %} 
+    {% assign sorted_areas = areas | sort: "importance" %} 
+    {% for area in sorted_areas %}
     {% include areacard.html %}
     {% endfor %}
     <!-- {% include pagination.html %} -->
