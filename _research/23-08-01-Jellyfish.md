@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jellyfish
+title: 해파리
 img: Jellyfish.jpg
 ---
 
