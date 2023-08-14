@@ -13,8 +13,8 @@ secondtitle: Lab for Architectural & Urban Space
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
     {% assign areas1 = site.research %} 
-    {% for area1 in areas1 %}
-    {% include areacard1.html %}
+    {% for area in areas1 %}
+    {% include areacard.html %}
     {% endfor %}
     <!-- {% include pagination.html %} -->
     </div>
