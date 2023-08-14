@@ -81,4 +81,5 @@ secondtitle: Lab for Architectural & Urban Space
           {{ images.authors }} <br />
           <strong>{{ images.link.display }}</strong><br/>
     </div>
+    {% endfor %}
 </div>
