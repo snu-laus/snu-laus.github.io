@@ -22,7 +22,7 @@ url: "https://snu-laus.github.io/" # the base hostname & protocol for your site,
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: '/'}
+  - {name: 'Home', link: '/home'}
   - {name: 'About', link: '/about'}
   - {name: 'Members', link: '/members'}
   - {name: 'Publication', link: '/publications'}
