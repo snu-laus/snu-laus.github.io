@@ -1,0 +1,19 @@
+- title: 'Desert'
+  image: Desert.jpg
+  description:
+  authors: 002
+
+- title: 'Jellyfish'
+  image: Jellyfish.jpg
+  description:
+  authors: 004
+  
+- title: 'Koala'
+  image: Koala.jpg
+  description:
+  authors: 005
+
+- title: 'Penguins'
+  image: Penguins.jpg
+  description:
+  authors: 007
