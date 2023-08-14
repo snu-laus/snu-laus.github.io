@@ -74,57 +74,11 @@ secondtitle: Lab for Architectural & Urban Space
 
 
 <div class="container">
-    <div class="carousel">
-        <input type="radio" name="slides" checked="checked" id="slide-1">
-        <input type="radio" name="slides" id="slide-2">
-        <input type="radio" name="slides" id="slide-3">
-        <input type="radio" name="slides" id="slide-4">
-        <input type="radio" name="slides" id="slide-5">
-        <input type="radio" name="slides" id="slide-6">
-        <ul class="carousel__slides">
-            <li class="carousel__slide">
-                <figure>
-                    <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/_img/main/Penguins.jpg" width=100%>
-                    </div>
-                    <figcaption>
-                        Penguins.
-                        <span class="credit">001</span>
-                    </figcaption>
-                </figure>
-            </li>
-            <li class="carousel__slide">
-                <figure>
-                    <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/_img/main/Desert.jpg" width=100%>
-                    </div>
-                    <figcaption>
-                        Desert.
-                        <span class="credit">002</span>                            
-                    </figcaption>
-                </figure>
-            </li>
-            <li class="carousel__slide">
-                <figure>
-                    <div>
-                      <img src="{{ site.url }}{{ site.baseurl }}/_img/main/Jellyfish.jpg" width=100%>
-                    </div>
-                    <figcaption>
-                        Jellyfish.
-                        <span class="credit">003</span>                            
-                    </figcaption>
-                </figure>
-            </li>
-        <ul class="carousel__thumbnails">
-            <li>
-                <label for="slide-1"><img src="{{ site.url }}{{ site.baseurl }}/_img/main/Penguins.jpg"></label>
-            </li>
-            <li>
-                <label for="slide-2"><img src="{{ site.url }}{{ site.baseurl }}/_img/main/Desert.jpg"></label>
-            </li>
-            <li>
-                <label for="slide-3"><img src="{{ site.url }}{{ site.baseurl }}/_img/main/Jellyfish.jpg"></label>
-            </li>
-        </ul>
+    {% for images in site.main.20230801 %}
+    <div style="border: 1px solid gold; float: left; width: 33%; padding:10px;">
+          <img src="{{ site.url }}{{ site.baseurl }}/img/main/{{ images.image }}"/> <br />
+          {{ images.title }} <br />
+          {{ images.authors }} <br />
+          <strong>{{ images.link.display }}</strong><br/>
     </div>
 </div>
