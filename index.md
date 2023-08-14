@@ -5,6 +5,7 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
+permalink: /home
 title: 건축도시공간연구실
 secondtitle: Lab for Architectural & Urban Space
 ---
