@@ -40,6 +40,19 @@ secondtitle: Lab for Architectural & Urban Space
 </style>
 
 
+## News
+<div class="container">
+    {% for images in site.main.20230801 %}
+    <div style="border: 1px solid gold; float: left; width: 33%; padding:10px;">
+          <img src="{{ site.url }}{{ site.baseurl }}/img/main/{{ images.image }}"/> <br />
+    </div>
+    {{ images.title }} <br />
+    {{ images.authors }} <br />
+    {% endfor %}
+</div>
+
+
+
 <div class="news">
   <a href="/news"><h2>News</h2></a>
   {% if site.news  %}
@@ -69,17 +82,4 @@ secondtitle: Lab for Architectural & Urban Space
   {% else %}
     <p>No news so far...</p>
   {% endif %}
-</div>
-
-
-
-<div class="container">
-    {% for images in site.main.20230801 %}
-    <div style="border: 1px solid gold; float: left; width: 33%; padding:10px;">
-          <img src="{{ site.url }}{{ site.baseurl }}/img/main/{{ images.image }}"/> <br />
-          {{ images.title }} <br />
-          {{ images.authors }} <br />
-          <strong>{{ images.link.display }}</strong><br/>
-    </div>
-    {% endfor %}
 </div>
