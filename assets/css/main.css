@@ -401,8 +401,8 @@ html {
     overflow: hidden;
     background-color: #fff;
     box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
-    margin-bottom: 1rem;
-    border-bottom: 1rem;
+    margin-bottom: 4rem;
+    border-bottom: 2rem;
     transition: box-shadow .25s ease; }
     .post-card:hover, .post-card:focus {
       border-bottom: 0;
