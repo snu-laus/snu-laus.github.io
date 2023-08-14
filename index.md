@@ -39,31 +39,4 @@ secondtitle: Lab for Architectural & Urban Space
 </style>
 
 
-## News
-<div class="container">
-    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign areas2 = site.news | slice: 0, 3 %} 
-    {% for area in areas2 %}
-    {% include areacard.html %}
-    {% endfor %}
-    <!-- {% include pagination.html %} -->
-    </div>
-</div>
 
-<style>
-    table th {
-        font-size:1.1rem;
-        font-weight:bold;
-        border: 0px;
-        padding : 0px;
-        width: 10%;
-        background-color : #ffffff;
-    }
-    thead {
-        border: 0px;
-    }
-    .summary {
-      font-size: 1rem;
-      font-weight: normal;
-    }
-</style>
