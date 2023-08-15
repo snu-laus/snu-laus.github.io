@@ -432,7 +432,7 @@ html {
       left: 1.5rem;
       z-index: 2; }
     .post-card__inner {
-      text-align: center;
+      text-align: right;
       display: block;
       position: relative;
       margin-top: 0em;
