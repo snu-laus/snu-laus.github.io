@@ -12,7 +12,9 @@ html {
   .site {
     display: flex;
     min-height: 100vh;
-    flex-direction: column; }
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px; }
   
   .site__content {
     flex: 1; }
@@ -165,7 +167,7 @@ html {
     z-index: 4;
     width: 100%;
     top: 0;
-    left: 0;
+    left: 20px;
     will-change: transform;
     transition: transform .3s, background-color 0.5s ease;
     transform: translateY(0%); }
