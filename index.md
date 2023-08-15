@@ -18,7 +18,7 @@ secondtitle: Lab for Architectural & Urban Space
 <table style="border-collapse: collapse; width: 100%; border:none;" border="1" align="left">
 <tbody>
 <tr><td style=" border-left-width: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;"><span style=" font-family: 'Poppins', sans-serif; font-size: 400%">LAUS</span></td></tr>
-<tr><td style="border-left-width: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-left: 25px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;"><span style=" font-family: 'Poppins', sans-serif; font-size: 150%">Lab for Architecture and Urban Space</span></td></tr>
+<tr><td style="border-left-width: 0px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; padding-left: 0px; padding-top: 0px; padding-bottom: 0px; padding-right: 0px;"><span style=" font-family: 'Poppins', sans-serif; font-size: 150%">Lab for Architecture and Urban Space</span></td></tr>
 </tbody>
 </table>
 
