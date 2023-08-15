@@ -14,7 +14,7 @@ secondtitle: Lab for Architectural & Urban Space
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
-<span style=" font-family: 'Poppins', sans-serif; font-size: 400%">LAUS</span>
+<span style=" font-family: 'Poppins', sans-serif; font-size: 400%">LAUS</span><br/>
 <span style=" font-family: 'Poppins', sans-serif; font-size: 100%">Lab for Architecture and Urban Space</span>
 <br/>
 건축도시공간연구실(LAUS)은 공간을 해석하고, 기획·계획하는 대학원 연구실입니다. 건축 및 도시공간의 사회적·문화적 배경을 이해하고, 논리적인 방법론을 통해 건조환경 계획을 발전시키고자 합니다.
