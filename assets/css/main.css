@@ -168,6 +168,7 @@ html {
     width: 100%;
     top: 0;
     left: 20px;
+    right: 20px;
     will-change: transform;
     transition: transform .3s, background-color 0.5s ease;
     transform: translateY(0%); }
