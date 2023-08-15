@@ -5,7 +5,7 @@ title: "Professor"
 no_title: True
 ---
 
-## Professor Bumjoon Kang
+## Bumjoon Kang, PhD
 __서울대학교 공과대학 건축학과 부교수__
 
 __Associate Professor, Department of Architecture & Architectural Engineering, Seoul National University__
