@@ -19,8 +19,6 @@ secondtitle: Lab for Architectural & Urban Space
 <tbody>
 <tr>
 <td><span style=" font-family: 'Poppins', sans-serif; font-size: 400%">LAUS</span></td>
-</tr>
-<tr>
 <td><span style=" font-family: 'Poppins', sans-serif; font-size: 150%">Lab for Architecture and Urban Space</span></td>
 </tr>
 </tbody>
