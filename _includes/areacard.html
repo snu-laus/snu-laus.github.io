@@ -13,7 +13,6 @@
         {% if area.img %}
           <figure class="post-card__thumb">
             <img src="/assets/img/{{ area.img }}" alt="{{ post.title }}">
-            <h4>{{ area.title | strip_html | truncate: 50 }}</h4>
           </figure>
         {% else %}
           <figure class="post-card__thumb">
@@ -21,4 +20,5 @@
           </figure>
         {% endif %}
       </a>
+      <h4>{{ area.title | strip_html | truncate: 50 }}</h4>
   </div>
