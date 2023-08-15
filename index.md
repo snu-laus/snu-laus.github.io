@@ -14,9 +14,7 @@ secondtitle: Lab for Architectural & Urban Space
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
-<span style=" font-family: 'Poppins', sans-serif;">
-LAUS
-</span>
+<span style=" font-family: 'Poppins', sans-serif;">LAUS</span>
 
 <h2>Lab for Architecture and Urban Space</h2>
 <br/>
