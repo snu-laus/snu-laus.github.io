@@ -11,6 +11,13 @@ secondtitle: Lab for Architectural & Urban Space
 
 <br/><br/>
 
+<h1>LAUS</h1>
+<br/>
+<h2>Lab for Architecture and Urban Space</h2>
+<br/>
+건축도시공간연구실(LAUS)은 공간을 해석하고, 기획·계획하는 대학원 연구실입니다. 건축 및 도시공간의 사회적·문화적 배경을 이해하고, 논리적인 방법론을 통해 건조환경 계획을 발전시키고자 합니다.
+<br/>
+
 ## Research
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
