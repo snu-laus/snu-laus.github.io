@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 리서치001
+permalink: /research-001
 img: Lighthouse.jpg
 ---
 
