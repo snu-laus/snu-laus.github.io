@@ -1,5 +1,5 @@
 ---
-layout: research
+layout: page
 title: 리서치002
 permalink: /research-002
 img: Jellyfish.jpg
