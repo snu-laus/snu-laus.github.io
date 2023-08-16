@@ -1,0 +1,30 @@
+  .post-card {
+    display: block;
+    position: relative;
+    width: 250px;
+    height: 250px;
+    min-height: 250px;
+    border-radius: 0px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 0px 0px #fff;
+    margin-bottom: 4rem;
+    border-bottom: 2rem;
+    transition: box-shadow 0.0s ease; }
+    .post-card:hover, .post-card:focus {
+      border-bottom: 0;
+      box-shadow: 0 0px 0px #fff; }
+    @media only screen and (min-width: 48em) {
+      .post-card {
+        width: 48.4375%;
+        margin-right: 3.125%; }
+        .post-card:last-of-type, .post-card:nth-child(2n+2) {
+          margin-right: 0; } }
+    @media only screen and (min-width: 75em) {
+      .post-card {
+        width: 31.25%;
+        margin-right: 3.125%; }
+        .post-card:nth-child(2n+2) {
+          margin-right: 3.125%; }
+        .post-card:last-of-type, .post-card:nth-child(3n+3) {
+          margin-right: 0; } }
