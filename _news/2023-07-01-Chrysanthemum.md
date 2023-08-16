@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 국화
+title: 뉴스002
 img: Chrysanthemum.jpg
 ---
 
