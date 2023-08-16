@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 수국
+title: 뉴스003
 img: Hydrangeas.jpg
 ---
 
