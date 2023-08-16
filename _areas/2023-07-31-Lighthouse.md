@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 등대
+title: 리서치001
 img: Lighthouse.jpg
 ---
 
