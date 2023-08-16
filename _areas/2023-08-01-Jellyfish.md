@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 해파리
+title: 리서치002
 img: Jellyfish.jpg
 ---
 
