@@ -1,9 +1,12 @@
 ---
 layout: page
 title: 뉴스003
+permalink: /news-003
 img: Hydrangeas.jpg
 ---
 
 <div class="area-summary" markdown="1">
-식물 002
+뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3<br/>
+뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3<br/>
+뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3 뉴스3<br/>
 </div>
