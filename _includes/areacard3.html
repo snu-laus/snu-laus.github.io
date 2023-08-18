@@ -1,8 +1,10 @@
 <div class="post-card3">
     <a href="{{ area.permalink | relative_url }}">
-          <figure class="post-card__thumb" style="margin-bottom: 5px;">
+        <figure class="post-card__thumb" style="margin-bottom: 5px;">
             <a href="{{ area.permalink | relative_url }}" style="color: black"><span style="font-size:120%; font-weight:bolder;">{{ area.title | split: '</div>' | first }}</span></a>
+        </figure>
+        </figure>
             {{ area.content | split: '</div>' | first }}
-          </figure>
+        </figure>
     </a>
-  </div>
+</div>
