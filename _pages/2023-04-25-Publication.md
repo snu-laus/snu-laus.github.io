@@ -1,7 +1,7 @@
 ---
-permalink: /publications
+permalink: /teaching
 layout: page
-title: "Publication"
+title: "Teaching"
 ---
 
 #### 학술논문
