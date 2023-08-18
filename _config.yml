@@ -25,7 +25,7 @@ navigation: # Navigation links
   - {name: 'Home', link: "https://snu-laus.github.io/"}
   # - {name: 'About', link: '/about'}
   - {name: 'Members', link: '/members'}
-  - {name: 'Publication', link: '/publications'}
+  - {name: 'Teaching', link: '/teaching'}
   - {name: 'Research', link: '/research'}
   - {name: 'News', link: '/news'}
   - {name: 'Contact', link: '/contact'}
