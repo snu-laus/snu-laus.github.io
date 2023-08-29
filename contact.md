@@ -23,6 +23,3 @@ Gwanak-ro 1, Gwanak-gu, Seoul 08826, Republic of Korea
 Department of Architecture & Architectural Engineering, College of Engineering, Seoul National University
 
 39-514
-
-<figure data-behold-id="tSL96p4HaxD2zj1of56E"></figure>
-<script src="https://w.behold.so/widget.js" type="module"></script>
