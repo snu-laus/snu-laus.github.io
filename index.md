@@ -68,33 +68,6 @@ The Lab for Architectural and Urban Space (LAUS), established in 1999 in the Dep
 
 
 ## News
-<div class="container">
-    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% assign sortedNews2 = site.news | sort: 'date' | reverse %}
-    {% assign areas2 = sortedNews2 | slice: 0, 3 %}
-    {% for area in areas2 %}
-    {% include areacard.html %}
-    {% endfor %}
-    <!-- {% include pagination.html %} -->
-    </div>
-</div>
-
-<style>
-    table th {
-        font-size:1.1rem;
-        font-weight:bold;
-        border: 0px;
-        padding : 0px;
-        width: 10%;
-        background-color : #ffffff;
-    }
-    thead {
-        border: 0px;
-    }
-    .summary {
-      font-size: 1rem;
-      font-weight: normal;
-    }
-</style>
-
-
+<br/>
+<figure data-behold-id="tSL96p4HaxD2zj1of56E"></figure>
+<script src="https://w.behold.so/widget.js" type="module"></script>
