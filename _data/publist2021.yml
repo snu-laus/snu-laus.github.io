@@ -5,6 +5,27 @@
 #     url: 
 #     display: ''
 
+- title: '포스트코로나 건축도시설계 공모전의 핵심개념 분석'
+  description:
+  authors: 김영우, 최진규, 강범준 (2021)
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002787101
+    display: '대한건축학회논문집, 37(12), 129-140.'
+
+- title: 'COVID-19 impact on residential preferences in the early-stage outbreak in South Korea'
+  description:
+  authors: Kang, B., Won, J., & Kim, E. J. (2021)
+  link:
+    url: https://www.mdpi.com/1660-4601/18/21/11207
+    display: 'International Journal of Environmental Research and Public Health, 18(21), 11207.'
+
+- title: 'Developing Sidewalk Inventory Data Using Street View Images'
+  description:
+  authors: Kang, B., Lee, S., Zou, S. (2021)
+  link:
+    url: https://www.mdpi.com/1424-8220/21/9/3300
+    display: 'Sensors, 21(9):3300.'
+
 - title: '포스트코로나 사회변화에 대응하는 언택트 어버니즘 전략 연구'
   description:
   authors: 강범준 (2021)
