@@ -79,7 +79,7 @@ html {
       width: 33%;
       height: 33%;
       margin-right: 3.125%; }
-      .post-card:last-of-type, .post-card:nth-child(2n+2) {
+      .post-card:nth-child(2n+2) {
         margin-right: 3.125%; } }
 
 
