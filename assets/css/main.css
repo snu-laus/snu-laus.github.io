@@ -74,6 +74,8 @@ html {
     .post-card:hover, .post-card:focus {
       border-bottom: 0;
       box-shadow: 0 0px 0px #fff; }
+    .post-card:last-of-type {
+        margin-right: 0; } }
   @media only screen and (min-width: 48em) {
     .post-card {
       width: 33%;
