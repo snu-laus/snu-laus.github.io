@@ -1,18 +1,26 @@
-- title: "Good and Smart Cities: 미래도시공간은 누구를 위한 것인가?"
+- title: 'PMP: Learning to Physically Interact with Environments using Multiple Part-wise Motion Priors'
+  image: 
   description:
-  author: "강범준"
-  link: 
-  url: "https://www.auri.re.kr/board.es?mid=a10401010000&bid=0001&list_no=4823&act=view"
-  time: "2022-10-21"
+  authors: Jinseok Bae, Jungdam Won, Donggeun Lim, Cheol-Hui Min and Young Min Kim
+  link:
+    url:
+    display: SIGGRAPH 2023
+    code: 
+    video:
+  highlight: 0
+  news2:
 
-
-- title: "《한국 공동주택 연구 - 단위주호 및 개별공간》"
+- title: 'Text2Scene: Text-driven Indoor Scene Stylization with Part-aware Details'
+  image: 
   description:
-  author: "강범준"
-  link: "In 최재필 (Eds.), 도시 건축 주거 연구 (pp. 20-42). 서울: 서울대학교 출판문화원."
-  url:
-  time: "2022"
-
+  authors: Inwoo Hwang, Hyeonwoo Kim and Young Min Kim
+  link:
+    url: https://openaccess.thecvf.com/content/CVPR2023/papers/Hwang_Text2Scene_Text-Driven_Indoor_Scene_Stylization_With_Part-Aware_Details_CVPR_2023_paper.pdf
+    display: IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2023, Highlight
+    code: 
+    video: https://youtu.be/CGIXY2kwIYM
+  highlight: 0
+  news2:
 
 
 
