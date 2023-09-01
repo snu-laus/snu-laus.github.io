@@ -105,10 +105,10 @@ html {
     background: #fff;
     position: relative;
     overflow: hidden;
-    width: 100%
-    height: 0;
+    width: 100%;
+    height: 0%;
     padding-bottom: 100%; }
-    .post-card__thumb::after {
+/*     .post-card__thumb::after {
       content: "";
       display: block;
       height: 0;
@@ -119,7 +119,7 @@ html {
       left: 0;
       width: 100%;
       height: 100%;
-      display: block; }
+      display: block; } */
 
 
 
