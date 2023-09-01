@@ -1,6 +1,6 @@
-<div class="post-card">
-<!--     <a class="post-card__inner" href="{{ post.url | relative_url }}">
-      <div class="post-card__header">
+<div class="postcard1">
+<!--     <a class="postcard1__inner" href="{{ post.url | relative_url }}">
+      <div class="postcard1__header">
         <h4>{{ area.title | strip_html | truncate: 50 }}</h4>
       </div>
       {% if post.summary %}
@@ -11,11 +11,11 @@
     </a> -->
     <a href="{{ area.permalink | relative_url }}">
         {% if area.img %}
-          <figure class="post-card__thumb" style="margin-bottom: 5px; border-radius: 1.1em; ">
+          <figure class="postcard1__thumb" style="margin-bottom: 5px; border-radius: 1.1em; ">
             <img src="/assets/img/{{ area.img }}" alt="{{ post.title }}">
           </figure>
         {% else %}
-          <figure class="post-card__thumb">
+          <figure class="postcard1__thumb">
             <div class="dark-bg"></div>
           </figure>
         {% endif %}
