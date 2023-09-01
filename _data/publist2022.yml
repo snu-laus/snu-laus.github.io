@@ -1,9 +1,10 @@
-# - title: "Good and Smart Cities: 미래도시공간은 누구를 위한 것인가?"
-#   description: 
-#   authors: 강범준 (2022-10-21)
-#   display: 2022 한국도시설계학회-KAIST 공동 미래도시 포럼 및 추계학술대회. 대전시립미술관.
-#   link:
-#     url: https://www.auri.re.kr/board.es?mid=a10401010000&bid=0001&list_no=4823&act=view
+- title: "Good and Smart Cities: 미래도시공간은 누구를 위한 것인가?"
+  description: 
+  authors: 강범준 (2022-10-21)
+  link:
+    url: https://www.auri.re.kr/board.es?mid=a10401010000&bid=0001&list_no=4823&act=view
+    display: 2022 한국도시설계학회-KAIST 공동 미래도시 포럼 및 추계학술대회. 대전시립미술관.
+
 
 # - title: "한국 공동주택 연구 - 단위주호 및 개별공간"
 #   description:
@@ -14,13 +15,8 @@
 
 
 - title: 'CPO: Change Robust Panorama to Point  Cloud Localization'
-  image: cpo.png
   description:
   authors: Junho Kim, Hojun Jang, Changwoon Choi, and Young Min Kim
   link:
     url: https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136690173.pdf
     display: European Conference on Computer Vision (ECCV) 2022
-    code: https://github.com/82magnolia/cpo
-    video: https://youtu.be/V6XjHL5q0_Y
-  highlight: 0
-  news2:
