@@ -68,7 +68,7 @@ html {
     background-color: #fff;
     box-shadow: 0 0px 0px #fff;
     margin-bottom: 4rem;
-    margin-right: 1.0%;
+    margin-right: 3.125%;
     border-bottom: 2rem;
     transition: box-shadow 0.0s ease; }
     .post-card:hover, .post-card:focus {
