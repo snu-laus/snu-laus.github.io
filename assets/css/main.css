@@ -55,7 +55,13 @@ html {
     margin-bottom: 1.25rem; }
 
 
-
+  @media only screen and (min-width: 48em) {
+    .post-card {
+      width: 33%;
+      height: 33%;
+      margin-right: 3.125%; }
+    .post-card:nth-child(2n+2) {
+      margin-right: 3.125%; } }
 
   .post-card {
     display: block;
@@ -76,13 +82,7 @@ html {
       box-shadow: 0 0px 0px #fff; }
     .post-card:last-of-type {
         margin-right: 0; } }
-  @media only screen and (min-width: 48em) {
-    .post-card {
-      width: 33%;
-      height: 33%;
-      margin-right: 3.125%; }
-      .post-card:nth-child(2n+2) {
-        margin-right: 3.125%; } }
+
 
 
 
