@@ -401,7 +401,7 @@ html {
     position: relative;
     width: 30%;
     height: 40%;
-    min-height: 280px;
+    min-height: 40%;
     border-radius: 0px;
     overflow: hidden;
     background-color: #fff;
@@ -412,7 +412,7 @@ html {
     .post-card:hover, .post-card:focus {
       border-bottom: 0;
       box-shadow: 0 0px 0px #fff; }
-    @media only screen and (min-width: 48em) {
+/*     @media only screen and (min-width: 48em) {
       .post-card {
         width: 48.4375%;
         margin-right: 3.125%; }
@@ -425,7 +425,7 @@ html {
         .post-card:nth-child(2n+2) {
           margin-right: 3.125%; }
         .post-card:last-of-type, .post-card:nth-child(3n+3) {
-          margin-right: 0; } }
+          margin-right: 0; } } */
     .post-card__label {
       position: absolute;
       top: 1.5rem;
