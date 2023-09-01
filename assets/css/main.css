@@ -399,9 +399,9 @@ html {
   .post-card {
     display: block;
     position: relative;
-    width: 32.33%;
-    height: 32.33%;
-    min-height: 32.33%;
+    width: 33%;
+    height: 33%;
+    min-height: 33%;
     border-radius: 0px;
     overflow: hidden;
     background-color: #fff;
