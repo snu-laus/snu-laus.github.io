@@ -13,9 +13,9 @@ secondtitle: Lab for Architectural & Urban Space
 
 # Lab for Architectural and Urban Space
 
-서울대학교 건축학과 건축도시공간연구실(LAUS)은 1999년에 설립되어 공간분석, 건축계획, 도시설계 및 분석 분야 연구를 수행하고 있습니다. 
+서울대학교 건축학과 건축도시공간연구실(LAUS)은 1999년에 설립되어 **공간분석, 건축계획, 도시설계** 분야 연구를 수행하고 있습니다. 
 
-The Lab for Architectural and Urban Space (LAUS), established in 1999 in the Department of Architecture and Architectural Engineering, Seoul National University, explores research topics of Spatial Analysis, Architectural Planning, and Urban Design and Analytics. 
+The Lab for Architectural and Urban Space (LAUS), established in 1999 in the Department of Architecture and Architectural Engineering, Seoul National University, explores research topics of **Urban and Architectural Space Analysis, Space Programming & Planning, and Urban Design Policy**. 
 
 <br/>
 
