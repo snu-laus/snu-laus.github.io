@@ -6,7 +6,7 @@ permalink: /contact/
 
 ## 이메일 및 주소 Address
 
-✉ 연구실 관련 문의 Email: snu-laus@gmail.com
+🚨 연구실 관련 문의 Email: snu-laus@gmail.com
 
 Please email us for questions about the lab.
 
