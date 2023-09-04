@@ -11,7 +11,7 @@ permalink: /contact/
 📫 서울특별시 관악구 관악로 1, 39동 514호 (우: 08826)
 서울대학교 건축학과 건축도시공간연구실
 
-39-514 Gwanak-ro 1, Gwanak-gu, Seoul 08826, Republic of Korea
+✈️ 39-514 Gwanak-ro 1, Gwanak-gu, Seoul 08826, Republic of Korea
 Department of Architecture & Architectural Engineering
 
 ---
