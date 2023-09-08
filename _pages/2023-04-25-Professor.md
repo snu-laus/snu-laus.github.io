@@ -8,8 +8,9 @@ no_title: True
   img[src$="#avatar"] {
     display: block;
     margin: 0 auto;
-    height: 25%; width: auto;
+    height: 250px; width: auto;
     border-radius: 50%;
+    max-height: 50%;
   }
 </style>
 ![Avatar](avatar-icon-bumjoon.png#avatar)
