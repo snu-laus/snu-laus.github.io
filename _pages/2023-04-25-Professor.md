@@ -4,6 +4,9 @@ layout: page
 title: "Professor"
 no_title: True
 ---
+<center>
+<img src="avatar-icon-bumjoon.png" height="auto" width="200" style="border-radius:50%; display: block; margin-left: auto; margin-right: auto"/>
+</center>
 
 ## Bumjoon Kang, PhD
 __서울대학교 공과대학 건축학과 부교수__
