@@ -22,7 +22,7 @@ url: "https://laus.snu.ac.kr" # the base hostname & protocol for your site, e.g.
 
 # THEME SETTINGS
 navigation: # Navigation links
-  - {name: 'Home', link: "https://snu-laus.github.io/"}
+  - {name: 'Home', link: ""}
   # - {name: 'About', link: '/about'}
   - {name: 'Members', link: '/members'}
   - {name: 'Teaching', link: '/teaching'}
