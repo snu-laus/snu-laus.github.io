@@ -5,7 +5,7 @@ title: "Professor"
 no_title: True
 ---
 <center>
-<img src="avatar-icon-bumjoon.png" height="auto" width="200" style="border-radius:50%; display: block; margin-left: auto; margin-right: auto"/>
+<img src="_img/avatar-icon-bumjoon.png" height="auto" width="200" style="border-radius:50%; display: block; margin-left: auto; margin-right: auto"/>
 </center>
 
 ## Bumjoon Kang, PhD
