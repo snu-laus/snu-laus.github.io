@@ -8,7 +8,7 @@ no_title: True
   img[src$="#avatar"] {
     display: block;
     margin: 0 auto;
-    height: 300px; width:auto;
+    height: 30%; width:auto;
     border-radius: 50%;
     max-width: 50%;
   }
