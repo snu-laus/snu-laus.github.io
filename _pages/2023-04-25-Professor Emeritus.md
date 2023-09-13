@@ -13,7 +13,7 @@ no_title: True
     max-height: 50%;
   }
 </style>
-![Avatar](avatar-icon-bumjoon.png#avatar)
+![Avatar](avatar-icon-jpchoi.png#avatar)
 
 ## Bumjoon Kang, PhD
 __서울대학교 공과대학 건축학과 부교수__
