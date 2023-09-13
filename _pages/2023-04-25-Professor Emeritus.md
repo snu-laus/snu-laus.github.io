@@ -20,6 +20,8 @@ __서울대학교 공과대학 건축학과 명예교수__
 
 __Associate Professor Emeritus, Department of Architecture & Architectural Engineering, Seoul National University__
 
+<br/>
+
 Education:
 * 서울대학교 공과대학 건축학과. 공학학사, 1980
 * 미국 조지아 공과대학교(Georgia Tech) 건축대학. 건축학 석사, 1983
