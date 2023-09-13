@@ -22,10 +22,12 @@ __Associate Professor Emeritus, Department of Architecture & Architectural Engin
 
 <br/>
 
-Education:
+Education
 * 서울대학교 공과대학 건축학과. 공학학사, 1980
 * 미국 조지아 공과대학교(Georgia Tech) 건축대학. 건축학 석사, 1983
 * 미국 조지아 공과대학교(Georgia Tech) 건축대학. 건축학 박사, 1988
+
+<br/>
 
 Principal Career
 * 미국 일리노이 대학교 (어바나-샴페인) 주택 연구 및 개발학과 조교수 겸 재활교육과 조교수
