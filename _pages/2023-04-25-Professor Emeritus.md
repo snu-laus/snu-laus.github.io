@@ -1,5 +1,5 @@
 ---
-permalink: /professor emeritus
+permalink: /professor0
 layout: page
 title: "Professor Emeritus"
 no_title: True
