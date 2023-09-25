@@ -20,6 +20,9 @@ __서울대학교 공과대학 건축학과 명예교수__
 
 __Professor Emeritus, Department of Architecture & Architectural Engineering, Seoul National University__
 
+__한국건축학교육인증원 원장__
+
+__President, Korea Architectural Accrediting Board (KAAB)__
 <br/>
 
 Education
@@ -29,7 +32,7 @@ Education
 
 <br/>
 
-Employment
+Employment & Career
 * 미국 일리노이 대학교 (어바나-샴페인) 주택 연구 및 개발학과 조교수 겸 재활교육과 조교수
   (Assistant Professor, Housing Research and Devel­opment Program & Rehabilitation Education, Uni­versity of Illinois at Urbana-Champaign, U.S.A), 1988 – 1990
 * 대한주택공사 주택연구소 책임연구원 (주택계획 및 설계실), 1990 – 1991
@@ -37,3 +40,5 @@ Employment
 * 미국 콜로라도 대학교 (보울더) 건축-도시계획 대학 객원학자
   (Visiting Scholar; College of Architecture and Urban Planning, University of Colorado at Boulder, U.S.A.)
 * 서울대학교 공과대학 건축학과 교수, 1998 - 2022
+* 서울대학교 공과대학 건축학과 명예교수, 2022 - 현재
+* 한국 건축학교육 인증원 원장, 2021 - 현재
