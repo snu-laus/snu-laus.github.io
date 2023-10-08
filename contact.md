@@ -15,9 +15,9 @@ permalink: /contact/
 Department of Architecture & Architectural Engineering
 
 ---
-## Join the Lab
+## Join the Lab!
 
-🥕 대학원 진학, 연구실에 관심이 있나요? [안내페이지](https://bumjoon.notion.site/Join-the-Lab-5e1fd035bf0d40828e356a97fa2f4284)를 확인해주세요.
+🥕 대학원 진학 혹은 연구실에 관심이 있나요? [안내페이지](https://bumjoon.notion.site/Join-the-Lab-5e1fd035bf0d40828e356a97fa2f4284)를 확인해주세요.
 
 ---
 ## Office Hours
