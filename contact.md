@@ -22,10 +22,9 @@ Department of Architecture & Architectural Engineering
 ---
 ## Office Hours
 
-강범준 교수와 면담: 아래 버튼을 클릭후 15분 단위로 열린 시간대를 골라 직접 예약하면 됩니다.
-
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bumjoon-kang/15min-ind-mtng'});return false;">Schedule time with me</a>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bumjoon-kang/15min-ind-mtng'});return false;">면담 약속 잡기 Schedule time with me</a>
 <!-- Calendly link widget end -->
+15분 단위로 열린 시간대를 골라 직접 예약하면 됩니다.
