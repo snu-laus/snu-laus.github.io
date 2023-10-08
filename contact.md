@@ -25,5 +25,5 @@ Department of Architecture & Architectural Engineering
 <!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-🕙 면담 약속 잡기: <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bumjoon-kang/15min-ind-mtng'});return false;">Schedule time with me</a>
+🕙 강범준 교수와 개인면담 약속시간을 잡으세요: <a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bumjoon-kang/15min-ind-mtng'});return false;">Schedule time with me</a>
 <!-- Calendly link widget end -->
