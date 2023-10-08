@@ -24,8 +24,8 @@ Department of Architecture & Architectural Engineering
 
 강범준 교수와 면담: 아래 버튼을 클릭후 15분 단위로 열린 시간대를 골라 직접 예약하면 됩니다.
 
-<!-- Calendly badge widget begin -->
+<!-- Calendly link widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/bumjoon-kang/15min-ind-mtng', text: 'Schedule time with me', color: '#0069ff', textColor: '#ffffff', branding: true }); }</script>
-<!-- Calendly badge widget end -->
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/bumjoon-kang/15min-ind-mtng'});return false;">Schedule time with me</a>
+<!-- Calendly link widget end -->
