@@ -27,6 +27,7 @@ navigation: # Navigation links
   - {name: 'Members', link: '/members'}
   - {name: 'Teaching', link: '/teaching'}
   - {name: 'Research', link: '/research'}
+  - {name: 'Publications', link: '/publications'}
   - {name: 'News', link: '/news'}
   - {name: 'Contact', link: '/contact'}
 
