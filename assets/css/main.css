@@ -1041,7 +1041,7 @@ html {
 .pub {
   display: flex;
   align-items: center;
-  margin: 20px 0;
+  margin-bottom: 40px;
 
   img {
     width: 20.00%;
