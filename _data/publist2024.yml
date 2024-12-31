@@ -9,7 +9,14 @@
 #     
 
 
-
+- authors: '심준형, 강범준'
+  year: '2024'
+  title: '우리나라 신도시에서 블록 크기 계획의 변화'
+  description: ''
+  display: '대한건축학회논문집, 40(11), 191-198.'
+  image: 2024_block.png
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003137922
 
 
 # - authors: '김정우, 강범준'
