@@ -238,21 +238,6 @@ html {
       .container {
         margin: 0 auto;
         max-width: 1170px; } } */
-
-  .image-container {
-    width: 16.66%;
-    padding-top: 16.66%;
-    position: relative;
-    overflow: hidden;
-    margin-bottom: 10px; }
-
-  .image-container img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover; }
   
   .header {
     background-color: #fff;
@@ -1052,7 +1037,32 @@ html {
         border-bottom: 0; }
         .controls__item a:hover svg {
           fill: #277cea; }
-  
+
+.pub {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+
+  img {
+    width: 16.66%;
+    height: auto;
+    object-fit: cover;
+    margin-right: 20px;
+  }
+
+  strong, em {
+    display: block;
+  }
+
+  strong, em, a {
+    margin-bottom: 5px;
+  }
+
+  max-width: 80%;
+  line-height: 1.5;
+}
+
+
   .publications {
     margin-top: 2rem; }
     .publications h1 {
