@@ -1,4 +1,5 @@
 # - authors: ''
+#   year: ''
 #   description: ''
 #   authors: ''
 #   display: ''
@@ -6,6 +7,8 @@
 #   link:
 #     url: 
 #     
+
+year: 2023
 
 - authors: '김영우, 황용하, 정은석, 강범준'
   title: '구글 스트리트 뷰 데이터와 인공지능을 활용한 위치기반 가로공간 보행자 데이터 수집 방법 개발'
