@@ -6,10 +6,8 @@ title: "Publications"
 
 ## 2023
 {% for publi in site.data.publist2023 %}
-<div class="pub" style="display: inline-block; width: 100%; margin: 20px 20px 20px 20px">
-  <div class="image-container">
-    <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
-  </div>  
+<div class="pub">
+  <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
   <strong>{{ publi.title }}</strong><br/>
   <em>{{ publi.authors }} </em><br/>
   {{ publi.link.display }}<br/>
