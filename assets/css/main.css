@@ -1055,7 +1055,7 @@ html {
     line-height: 1.5;
   }
 
-  .text-content strong, .text-content em, .text-content a {
+  .text-content strong, .text-content en, .text-content em, .text-content a {
     display: block;
     margin-bottom: 5px;
   }
