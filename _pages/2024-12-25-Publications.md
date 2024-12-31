@@ -9,7 +9,7 @@ title: "Publications"
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
   <div class="text-content">
-    <strong>{{ publi.authors }} <span class="pubyear">({{ publi.year }})</span></strong>
+    {{ publi.authors }} <span class="pubyear">({{ publi.year }})</span>
     <strong>{{ publi.title }}</strong>
     <em>{{ publi.display }}</em><br/>
     {% if publi.link.url %}
