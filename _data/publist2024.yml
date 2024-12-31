@@ -8,14 +8,14 @@
 #     url: 
 #     
 
-- authors: '김영우, 황용하, 정은석, 강범준'
+- authors: 'Jinhyun Hong, Sunjae Lee, Hyeonjeong Lee, Bumjoon Kang'
   year: '2024'
-  title: '구글 스트리트 뷰 데이터와 인공지능을 활용한 위치기반 가로공간 보행자 데이터 수집 방법 개발'
+  title: 'Changes in the role of built environment factors on bike-sharing usage among older adults before and after the COVID-19 pandemic: Policy implications in Seoul, South Korea'
   description:
-  display: '대한건축학회논문집, 39(9), 57-68.'
-  image: 202309_01.png
+  display: 'Journal of Transport & Health, 36, 101805.'
+  image: 2024_bike.png
   link:
-    url: 
+    url: https://www.sciencedirect.com/science/article/pii/S2214140524000513
 
 
 - authors: '송용준, 강범준'
