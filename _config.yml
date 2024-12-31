@@ -87,6 +87,8 @@ collections:
     permalink: /research-area/:title/
   news:
     output: true
+  pubpic:
+    output: true
 
 scholar:
   style: modern-language-association
