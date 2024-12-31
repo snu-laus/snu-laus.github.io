@@ -9,7 +9,7 @@ title: "Publications"
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
   <div class="text-content">
-    <strong>{{ publi.title }}</strong>
+    <strong>{{ publi.title }} ({{ publi.year }})</strong>
     <strong>{{ publi.entitle }}</strong>
     <em>{{ publi.authors }}</em>
     <strong>{{ publi.display }}</strong><br/>
