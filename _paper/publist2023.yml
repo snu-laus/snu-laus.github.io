@@ -1,0 +1,18 @@
+# - title: ''
+#   entitle: ''
+#   description:
+#   authors: 
+#   image: 
+#   link:
+#     url: 
+#     display: ''
+
+- title: '구글 스트리트 뷰 데이터와 인공지능을 활용한 위치기반 가로공간 보행자 데이터 수집 방법 개발'
+  entitle: 'Developing Geo-coded Street-level Pedestrian Volume Data Using Google Street View Data and Artificial Intelligence Models'
+  description:
+  authors: 김영우, 황용하, 정은석, 강범준
+  image: 
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002998165
+    display: '대한건축학회논문집, 39(9), 57-68.'
+
