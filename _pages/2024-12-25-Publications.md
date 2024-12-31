@@ -10,8 +10,8 @@ title: "Publications"
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
   <div class="text-content">
     <strong>{{ publi.title }}</strong>
-    <em>{{ publi.authors }} </em>
-    {{ publi.link.display }}<br/>
+    <em>{{ publi.authors }}</em>
+    <strong>{{ publi.link.display }}</strong><br/>
     {% if publi.link.url %}
     <strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong><br/>
     {% else %}
