@@ -5,6 +5,7 @@ title: "Publications"
 ---
 
 ## 2024
+<br/>
 {% for publi in site.data.publist2024 %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
@@ -24,6 +25,7 @@ title: "Publications"
 <br/><br/>
 
 ## 2023
+<br/>
 {% for publi in site.data.publist2023 %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
