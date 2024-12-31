@@ -1051,7 +1051,7 @@ html {
   }
 
   .text-content {
-    max-width: 80%;
+    width: 75%;
     line-height: 1.5;
   }
 
