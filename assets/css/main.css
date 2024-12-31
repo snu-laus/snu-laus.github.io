@@ -1060,6 +1060,10 @@ html {
     margin-bottom: 5px;
   }
 	
+  .pubyear {
+    color: #A4A4A4;
+  }
+	
   @media (max-width: 768px) {
     flex-direction: column;
     align-items: center;
