@@ -1,0 +1,28 @@
+# - authors: ''
+#   year: ''
+#   description: ''
+#   authors: ''
+#   display: ''
+#   image: 
+#   link:
+#     url: 
+#     
+
+- authors: '김영우, 황용하, 정은석, 강범준'
+  year: '2024'
+  title: '구글 스트리트 뷰 데이터와 인공지능을 활용한 위치기반 가로공간 보행자 데이터 수집 방법 개발'
+  description:
+  display: '대한건축학회논문집, 39(9), 57-68.'
+  image: 202309_01.png
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002998165
+
+
+- authors: '송용준, 강범준'
+  year: '2024'
+  title: '스마트도시계획 정책 수준 핵심 내용과 가치 도출'
+  description:
+  display: '대한건축학회논문집, 40(3), 235-245.'
+  image: 2024_smart.png
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003062979
