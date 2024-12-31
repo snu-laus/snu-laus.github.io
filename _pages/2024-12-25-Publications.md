@@ -9,13 +9,13 @@ title: "Publications"
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
   <div class="text-content">
-    <strong>{{ publi.authors }}&nbsp;&nbsp;<span class="pubyear">({{ publi.year }})</span></strong>
+    <div class="text-item">{{ publi.authors }}&nbsp;&nbsp;<span class="pubyear">({{ publi.year }})</span></div>
     <div class="text-item">{{ publi.title }}</div>
     <em>{{ publi.display }}</em><br/>
     {% if publi.link.url %}
-    <strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong><br/>
+    <strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong>
     {% else %}
-    <br/>
+    &nbsp;
     {% endif %}
   </div>
 </div>
