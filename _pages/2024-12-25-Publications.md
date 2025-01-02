@@ -4,9 +4,12 @@ layout: page
 title: "Publications"
 ---
 
-## 2024
+{% assign years = site.data.publist | map: "year" | uniq | sort: "desc" %}
+{% for year in years %}
+## {{ year }}
 <br/>
-{% for publi in site.data.publist2024 %}
+{% assign pubs = site.data.publist | where: "year", year %}
+{% for publi in pubs %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
   <div class="text-content">
@@ -21,25 +24,5 @@ title: "Publications"
   </div>
 </div>
 {% endfor %}
-
 <br/><br/>
-
-## 2023
-<br/>
-{% for publi in site.data.publist2023 %}
-<div class="pub">
-  <img src="{{ site.url }}{{ site.baseurl }}/pubpic/{{ publi.image }}"/>
-  <div class="text-content">
-    <strong>{{ publi.authors }}&nbsp;&nbsp;<span class="pubyear">({{ publi.year }})</span></strong>
-    <strong>{{ publi.title }}</strong>
-    <em>{{ publi.display }}</em><br/>
-    {% if publi.link.url %}
-    <strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong>
-    {% else %}
-    &nbsp;
-    {% endif %}
-  </div>
-</div>
 {% endfor %}
-
-<br/><br/>
