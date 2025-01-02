@@ -4,11 +4,6 @@ layout: page
 title: "Publications"
 ---
 
----
-permalink: /publications
-layout: page
-title: "Publications"
----
 
 ## 2024
 <br/>
