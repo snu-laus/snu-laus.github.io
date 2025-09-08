@@ -8,6 +8,15 @@
 #     url: 
 #     
 
+- authors: '송영재, 강범준'
+  year: '2025'
+  title: '국내 건축학인증 프로그램에서 도시설계 교육내용 실체분석'
+  description: ''
+  display: ' 대한건축학회논문집, 41(8), 323-331.'
+  image: 2025_scope.png
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003233213
+
 
 - authors: 'Eun-Hye Yoo, Youngseob Eum, Taegyu Lee, Bumjoon Kang'
   year: '2025'
@@ -17,13 +26,4 @@
   image: 2025_bicycle.jpg
   link:
     url: https://www.sciencedirect.com/science/article/pii/S0264275125001131
-
-
-- authors: '송영재, 강범준'
-  year: '2025'
-  title: '국내 건축학인증 프로그램에서 도시설계 교육내용 실체분석'
-  description: ''
-  display: ' 대한건축학회논문집, 41(8), 323-331.'
-  image: 2025_scope.png
-  link:
-    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003233213
+    
