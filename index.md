@@ -27,6 +27,12 @@ If you are interested in joining our lab as a graduate student, please check [th
 학부연구생을 모집합니다. [모집 공고 페이지](https://snu-laus.notion.site/2ab32921929280578f53ed18d64a12da?pvs=74)에 상세내용이 있습니다.
 
 <br/>
+
+<!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
+<script src="https://elfsightcdn.com/platform.js" async></script>
+<div class="elfsight-app-a4477114-d6a2-4202-93f9-b6165dd7def0" data-elfsight-app-lazy></div>
+
+<!--
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
     {% for area in site.areas %}
@@ -40,3 +46,4 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 <figure data-behold-id="tSL96p4HaxD2zj1of56E"></figure>
 <script src="https://w.behold.so/widget.js" type="module"></script>
+-->
