@@ -40,10 +40,10 @@ If you are interested in joining our lab as a graduate student, please check [th
     {% endfor %}
     </div>
 </div>
-
+-->
 
 <br/>
 
-<figure data-behold-id="tSL96p4HaxD2zj1of56E"></figure>
+<!-- <figure data-behold-id="tSL96p4HaxD2zj1of56E"></figure>
 <script src="https://w.behold.so/widget.js" type="module"></script>
 -->
