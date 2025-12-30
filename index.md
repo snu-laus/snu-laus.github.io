@@ -31,19 +31,3 @@ If you are interested in joining our lab as a graduate student, please check [th
 <!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
 <script src="https://elfsightcdn.com/platform.js" async></script>
 <div class="elfsight-app-a4477114-d6a2-4202-93f9-b6165dd7def0" data-elfsight-app-lazy></div>
-
-<!--
-<div class="container">
-    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% for area in site.areas %}
-    {% include areacard1.html %}
-    {% endfor %}
-    </div>
-</div>
--->
-
-<br/>
-
-<!-- <figure data-behold-id="tSL96p4HaxD2zj1of56E"></figure>
-<script src="https://w.behold.so/widget.js" type="module"></script>
--->
