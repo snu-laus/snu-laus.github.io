@@ -15,6 +15,8 @@ title: "Publications"
     <em>{{ publi.display }}</em><br/>
     {% if publi.link.url %}
     <strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong>
+    {% else %}
+    <strong>[link]</strong>
     {% endif %}
     {% if publi.appendix %}
     <strong><a href="{{ publi.appendix }}">[appendix]</a></strong>
