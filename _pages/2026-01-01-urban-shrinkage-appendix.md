@@ -12,7 +12,7 @@ This appendix contains the list of articles reviewed in the scoping review study
 
 <br/>
 
-### Reviewed Articles (n=73)
+### Reviewed Articles
 
 1. Aoki, T. (2022). Confronting future urban perforation: Spatial analysis of districts in Japan with potential for being sparsely inhabited. *Cities*, *122*, 103515.
 
