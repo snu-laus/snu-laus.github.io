@@ -13,7 +13,7 @@ title: "Publications"
     <strong>{{ publi.authors }}&nbsp;&nbsp;<span class="pubyear">({{ publi.year }})</span></strong>
     <strong>{{ publi.title }}</strong>
     <em>{{ publi.display }}</em><br/>
-    <strong style="display:inline">{% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer" style="display:inline">[link]</a>{% else %}[link]{% endif %}{% if publi.appendix %} <a href="{{ publi.appendix }}" style="display:inline">[appendix]</a>{% endif %}</strong>
+    <strong>{% if publi.link.url %}<a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer" style="display:inline">[link]</a>{% else %}[link]{% endif %}{% if publi.appendix %} <a href="{{ publi.appendix }}" style="display:inline">[appendix]</a>{% endif %}</strong>
   </div>
 </div>
 {% endfor %}
