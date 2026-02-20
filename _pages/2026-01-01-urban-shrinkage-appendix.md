@@ -8,7 +8,7 @@ title: "Appendix: Spatial Analysis of Urban Shrinkage"
 
 This appendix contains the list of articles reviewed in the scoping review study.
 
-> **Citation**: Lee, S., Park, D., & Kang, B. (forthcoming). Spatial Analysis of Urban Shrinkage: A Scoping Review of Methodological and Analytical Gaps. *International Journal of Urban Sciences*.
+> **Citation**: Lee, S., Park, D., & Kang, B. (2026). Spatial analysis of urban shrinkage: a scoping review of methodological and analytical gaps. *International Journal of Urban Sciences*, 1–23. [https://doi.org/10.1080/12265934.2026.2627468](https://doi.org/10.1080/12265934.2026.2627468)
 
 <br/>
 
