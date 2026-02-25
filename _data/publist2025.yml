@@ -16,6 +16,7 @@
   image: 2025_FAR.png
   link:
     url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003276587
+  map: https://seoul-urban-farprediction-atlas.pages.dev/
 
 - authors: '송영재, 강범준'
   year: '2025'
