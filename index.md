@@ -31,12 +31,15 @@ If you are interested in joining our lab as a graduate student, please check [th
 ## Publications
 
 <div class="container">
-    <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
-    {% for area in site.areas %}
-    {% include areacard1.html %}
-    {% endfor %}
+    <div class="post-list" itemscope itemtype="http://schema.org/Blog">
+        {% for area in site.areas %}
+            {% include areacard1.html %}
+        {% endfor %}
     </div>
 </div>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/css/lightbox.min.css" rel="stylesheet" />
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.4/js/lightbox.min.js"></script>
 
 ---
 
