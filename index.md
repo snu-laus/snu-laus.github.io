@@ -32,7 +32,7 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 <div class="container">
   {% comment %}
-    1️⃣ _data 안의 모든 publist* 파일 자동 합치기
+    1️⃣ _data 안 publist* 파일 자동 합치기
   {% endcomment %}
   {% assign all_pubs = "" | split: "" %} <!-- 빈 배열 초기화 -->
 
@@ -58,13 +58,18 @@ If you are interested in joining our lab as a graduate student, please check [th
   {% for pub in latest3_pubs %}
     <!-- 썸네일 -->
     <div class="pub-thumb" style="display:inline-block; margin:10px;">
-      <img src="/assets/pubpic/{{ pub.image }}" alt="{{ pub.title }}" style="width:200px; cursor:pointer;" id="thumb{{ forloop.index }}">
+      <img src="/assets/pubpic/{{ pub.image }}" alt="{{ pub.title }}" 
+           style="width:200px; cursor:pointer; border-radius:1em;" 
+           id="thumb{{ forloop.index }}">
     </div>
 
     <!-- 모달 -->
-    <div id="modal{{ forloop.index }}" class="modal" style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.8); z-index:1000;">
-      <div class="modal-content" style="background:white; max-width:600px; margin:5% auto; padding:20px; border-radius:10px; position:relative;">
-        <span class="closeModal" data-modal="modal{{ forloop.index }}" style="position:absolute; top:10px; right:15px; font-size:28px; cursor:pointer;">&times;</span>
+    <div id="modal{{ forloop.index }}" class="modal" 
+         style="display:none; position:fixed; inset:0; background:rgba(0,0,0,0.8); z-index:1000;">
+      <div class="modal-content" 
+           style="background:white; max-width:600px; margin:5% auto; padding:20px; border-radius:10px; position:relative;">
+        <span class="closeModal" data-modal="modal{{ forloop.index }}" 
+              style="position:absolute; top:10px; right:15px; font-size:28px; cursor:pointer;">&times;</span>
 
         <!-- 모달 안 내용 -->
         <img src="/assets/pubpic/{{ pub.image }}" style="width:100%; margin-bottom:15px;">
@@ -91,7 +96,7 @@ If you are interested in joining our lab as a graduate student, please check [th
 </div>
 
 {% comment %}
-  5️⃣ 모달 JS
+  5️⃣ 모달 제어 JS
 {% endcomment %}
 <script>
   {% for pub in latest3_pubs %}
