@@ -28,6 +28,8 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 <br/>
 
+## Publications
+
 <div class="container">
     <div class="post-list" itemscope="" itemtype="http://schema.org/Blog">
     {% for area in site.areas %}
@@ -35,6 +37,10 @@ If you are interested in joining our lab as a graduate student, please check [th
     {% endfor %}
     </div>
 </div>
+
+---
+
+## News
 
 <!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
 <script src="https://elfsightcdn.com/platform.js" async></script>
