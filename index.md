@@ -28,25 +28,6 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 <br/>
 
-## Publications
-
-<div class="container">
-  <div class="post-list" itemscope itemtype="http://schema.org/Blog">
-
-    {% comment %} 최근 3개 논문 선택 {% endcomment %}
-    {% assign all_pubs = site.data.publist_2026 | concat: site.data.publist_2025 | concat: site.data.publist_2024 | concat: site.data.publist_2023 %}
-    {% assign sorted_pubs = all_pubs | sort: "year" | reverse %}
-    {% assign latest3_pubs = sorted_pubs | slice: 0,3 %}
-
-    {% for area in latest3_pubs %}
-      {% include areacard1.html area=area %}
-    {% endfor %}
-
-  </div>
-</div>
-<br/>
----
-
 ## News
 
 <!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
