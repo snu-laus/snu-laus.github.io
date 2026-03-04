@@ -4,6 +4,7 @@
   {% else %}
     <a href="#">
   {% endif %}
+
       {% if area.image %}
         <figure class="post-card__thumb">
           <img src="/assets/pubpic/{{ area.image }}" alt="{{ area.title }}">
@@ -11,8 +12,6 @@
       {% else %}
         <figure class="post-card__thumb"><div class="dark-bg"></div></figure>
       {% endif %}
+
   </a>
-  <h4>{{ area.title }}</h4>
-  <p>{{ area.authors }} ({{ area.year }})</p>
-  <em>{{ area.display }}</em>
 </div>
