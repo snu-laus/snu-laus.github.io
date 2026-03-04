@@ -6,7 +6,7 @@ title: "Publications"
 
 ## 2026
 <br/>
-{% for publi in site.data.publist2026 %}
+{% for publi in site.data.publist_2026 %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/pubpic/{{ publi.image }}"/>
   <div class="text-content">
@@ -22,7 +22,7 @@ title: "Publications"
 
 ## 2025
 <br/>
-{% for publi in site.data.publist2025 %}
+{% for publi in site.data.publist_2025 %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/pubpic/{{ publi.image }}"/>
   <div class="text-content">
@@ -38,7 +38,7 @@ title: "Publications"
 
 ## 2024
 <br/>
-{% for publi in site.data.publist2024 %}
+{% for publi in site.data.publist_2024 %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/pubpic/{{ publi.image }}"/>
   <div class="text-content">
@@ -58,7 +58,7 @@ title: "Publications"
 
 ## 2023
 <br/>
-{% for publi in site.data.publist2023 %}
+{% for publi in site.data.publist_2023 %}
 <div class="pub">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/pubpic/{{ publi.image }}"/>
   <div class="text-content">
