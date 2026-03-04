@@ -26,6 +26,8 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 학부연구생을 모집합니다. [모집 공고 페이지](https://snu-laus.notion.site/2ab32921929280578f53ed18d64a12da?pvs=74)에 상세내용이 있습니다.
 
+---
+
 <br/>
 
 <div class="container">
