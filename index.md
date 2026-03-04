@@ -52,9 +52,21 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 <div class="container">
   <div class="post-list" itemscope itemtype="http://schema.org/Blog">
-    {% for area in latest3_pubs %}
-      {% include areacard1.html %}
+
+    {% assign all_pubs = "" | split: "" %}
+    {% for key in site.data %}
+      {% if key contains "publist" %}
+        {% assign all_pubs = all_pubs | concat: site.data[key] %}
+      {% endif %}
     {% endfor %}
+
+    {% assign sorted_pubs = all_pubs | sort: "year" | reverse %}
+    {% assign latest3_pubs = sorted_pubs | slice: 0,3 %}
+
+    {% for area in latest3_pubs %}
+      {% include areacard1.html area=area %}
+    {% endfor %}
+
   </div>
 </div>
 
