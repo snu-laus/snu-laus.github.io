@@ -1,13 +1,3 @@
-# - authors: ''
-#   year: ''
-#   title: ''
-#   description: ''
-#   display: ''
-#   image:
-#   link:
-#     url:
-#     appendix:
-
 - authors: 'Sunjae Lee, Dongjoon Park, Bumjoon Kang'
   year: '2026'
   title: 'Spatial Analysis of Urban Shrinkage: A Scoping Review of Methodological and Analytical Gaps'
@@ -16,4 +6,4 @@
   image: 2026_shrinkage.png
   link:
     url: https://www.tandfonline.com/doi/full/10.1080/12265934.2026.2627468
-  appendix: /publications/urban-shrinkage-appendix
+    appendix: /publications/urban-shrinkage-appendix
