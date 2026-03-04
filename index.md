@@ -17,8 +17,6 @@ secondtitle: Lab for Architectural & Urban Space
 
 The Lab for Architectural and Urban Space (LAUS), established in 1999 in the Department of Architecture and Architectural Engineering, Seoul National University, explores research topics of Urban and Architectural Space Analysis, Space Programming & Planning, and Urban Design Policy. 
 
-<br/>
-
 ---
 
 대학원 진학 혹은 연구실에 관심이 있나요? [안내 페이지](https://bumjoon.notion.site/Join-the-Lab-5e1fd035bf0d40828e356a97fa2f4284)를 확인해주세요.
