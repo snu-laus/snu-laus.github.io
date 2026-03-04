@@ -28,6 +28,19 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 <br/>
 
+## Newly Published
+
+<div class="post-list">
+{% assign all_pubs = site.data.publist_2026 | concat: site.data.publist_2025 %}
+{% for area in all_pubs limit:3 %}
+  {% include areacard1.html %}
+{% endfor %}
+</div>
+
+---
+
+<br/>
+
 ## News
 
 <!-- Elfsight Instagram Feed | Untitled Instagram Feed -->
