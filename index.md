@@ -30,29 +30,10 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 ## Publications
 
-{% comment %}
-  1️⃣ _data/publist_YYYY.yml 합치기
-{% endcomment %}
-{% assign all_pubs = "" | split: "" %}
-{% for key in site.data %}
-  {% if key contains "publist" %}
-    {% assign all_pubs = all_pubs | concat: site.data[key] %}
-  {% endif %}
-{% endfor %}
-
-{% comment %}
-  2️⃣ 연도 내림차순 정렬
-{% endcomment %}
-{% assign sorted_pubs = all_pubs | sort: "year" | reverse %}
-
-{% comment %}
-  3️⃣ 최근 3개 선택
-{% endcomment %}
-{% assign latest3_pubs = sorted_pubs | slice: 0,3 %}
-
 <div class="container">
   <div class="post-list" itemscope itemtype="http://schema.org/Blog">
 
+    {% comment %} _data/publist_YYYY.yml 합치기, 정렬, 최근 3개 선택 {% endcomment %}
     {% assign all_pubs = "" | split: "" %}
     {% for key in site.data %}
       {% if key contains "publist" %}
@@ -63,6 +44,7 @@ If you are interested in joining our lab as a graduate student, please check [th
     {% assign sorted_pubs = all_pubs | sort: "year" | reverse %}
     {% assign latest3_pubs = sorted_pubs | slice: 0,3 %}
 
+    {% comment %} 최근 3개를 areacard1.html에 전달 {% endcomment %}
     {% for area in latest3_pubs %}
       {% include areacard1.html area=area %}
     {% endfor %}
