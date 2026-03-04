@@ -1,30 +1,18 @@
-<div class="post-card" style="display:inline-block; width:220px; margin:10px; vertical-align:top;">
-
+<div class="post-card">
   {% if area.link.url %}
     <a href="{{ area.link.url }}" target="_blank" rel="noopener noreferrer">
   {% else %}
     <a href="#">
   {% endif %}
-
       {% if area.image %}
-        <figure class="post-card__thumb" style="margin-bottom: 5px; border-radius:1.1em;">
-          <img src="/assets/pubpic/{{ area.image }}" alt="{{ area.title }}" style="width:100%; border-radius:1em;">
+        <figure class="post-card__thumb">
+          <img src="/assets/pubpic/{{ area.image }}" alt="{{ area.title }}">
         </figure>
       {% else %}
-        <figure class="post-card__thumb" style="width:100%; height:120px; background:#ccc; border-radius:1em;"></figure>
+        <figure class="post-card__thumb"><div class="dark-bg"></div></figure>
       {% endif %}
   </a>
-
-  <div class="post-card__header">
-      <h4 style="font-size:1em; margin:5px 0;">{{ area.title }}</h4>
-  </div>
-
-  {% if area.display %}
-    <p style="font-style:italic; margin:0 0 3px 0;">{{ area.display }}</p>
-  {% endif %}
-
-  {% if area.authors %}
-    <p style="font-size:0.85em; color:#555; margin:0;">{{ area.authors }} ({{ area.year }})</p>
-  {% endif %}
-
+  <h4>{{ area.title }}</h4>
+  <p>{{ area.authors }} ({{ area.year }})</p>
+  <em>{{ area.display }}</em>
 </div>
