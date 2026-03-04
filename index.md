@@ -30,39 +30,31 @@ If you are interested in joining our lab as a graduate student, please check [th
 
 ## Publications
 
+{% comment %}
+  1️⃣ _data/publist_YYYY.yml 합치기
+{% endcomment %}
+{% assign all_pubs = "" | split: "" %}
+{% for key in site.data %}
+  {% if key contains "publist" %}
+    {% assign all_pubs = all_pubs | concat: site.data[key] %}
+  {% endif %}
+{% endfor %}
+
+{% comment %}
+  2️⃣ 연도 내림차순 정렬
+{% endcomment %}
+{% assign sorted_pubs = all_pubs | sort: "year" | reverse %}
+
+{% comment %}
+  3️⃣ 최근 3개 선택
+{% endcomment %}
+{% assign latest3_pubs = sorted_pubs | slice: 0,3 %}
+
 <div class="container">
-  <div class="post-list">
-
-    {% comment %}
-      1️⃣ _data/publist_YYYY.yml 합치기
-    {% endcomment %}
-    {% assign all_pubs = "" | split: "" %}
-    {% for key in site.data %}
-      {% if key contains "publist" %}
-        {% assign all_pubs = all_pubs | concat: site.data[key] %}
-      {% endif %}
+  <div class="post-list" itemscope itemtype="http://schema.org/Blog">
+    {% for area in latest3_pubs %}
+      {% include areacard1.html %}
     {% endfor %}
-
-    {% comment %}
-      2️⃣ 연도 기준 내림차순 정렬
-    {% endcomment %}
-    {% assign sorted_pubs = all_pubs | sort: "year" | reverse %}
-
-    {% comment %}
-      3️⃣ 상위 3개 선택
-    {% endcomment %}
-    {% assign latest3_pubs = sorted_pubs | slice: 0,3 %}
-
-    {% comment %}
-      4️⃣ 썸네일 표시
-    {% endcomment %}
-    {% for pub in latest3_pubs %}
-      <div class="pub-thumb" style="display:inline-block; margin:10px;">
-        <img src="/assets/pubpic/{{ pub.image }}" alt="{{ pub.title }}" 
-             style="width:200px; border-radius:1em;">
-      </div>
-    {% endfor %}
-
   </div>
 </div>
 
