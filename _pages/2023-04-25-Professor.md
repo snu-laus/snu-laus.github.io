@@ -30,7 +30,7 @@ __Associate Professor, Department of Architecture & Architectural Engineering, S
 * 연락처
   * 주소: 서울특별시 관악구 관악로 1 39동 501호 (우: 08826)
   * 전화: 02-880-1553 (연구실), 02-871-5518 (Fax)
-  * 전자우편: bumjoon@snu.ac.kr
+  * 전자우편: bumjoon [at] snu.ac.kr
   * 홈페이지: [https://bumjoon.github.io](https://bumjoon.github.io)
 
 I am an Associate Professor at the [Department of Architecture and Architectural Engineering, College of Engineering, Seoul National University (SNU DAAE)](https://architecture.snu.ac.kr/). My research interests include spatial analysis, environmental behavior, and urban design policy, with research questions on the environment-behavior interactions and policy and urban form relationships. As long-term academic and practice goals, I would develop future urban forms that shape healthy urban living for us all. 
