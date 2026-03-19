@@ -22,7 +22,7 @@ __Associate Professor, Department of Architecture & Architectural Engineering, S
 
 강범준 교수는 [서울대학교 공과대학 건축학과](https://architecture.snu.ac.kr/)에서 공간분석, 공간행태, 도시설계 분야를 연구하고 있습니다. 건축도시공간이 공간적 행태에 어떤 영향을 주는지 그리고 도시설계정책이 어떤 도시건축을 만들어내는지에 관심이 있습니다. 장기적으로는 더욱 건강한 미래 건축과 도시 형태를 개발하는 것입니다.
 
-서울대학교 건축학과에서 학사, 석사를 마치고 [서울연구원](https://www.si.re.kr/) 도시계획설계연구부에서 연구원으로 근무하였습니다. 미국 University of Washington에서 [도시설계및계획 박사학위](https://depts.washington.edu/urbdpphd/)를 받고 [뉴욕주립대(SUNY Buffalo)](http://www.buffalo.edu/) [건축대학](http://ap.buffalo.edu)과 [명지대학교 건축대학](https://arch.mju.ac.kr/)에서 교수로 근무한 바 있습니다.
+서울대학교 건축학과에서 학사, 석사를 마치고 [서울연구원](https://www.si.re.kr/) 도시계획설계연구부에서 연구원으로 근무하였습니다. 미국 University of Washington에서 [도시설계및계획 박사학위](https://depts.washington.edu/urbdpphd/)를 받고 [뉴욕주립대(SUNY Buffalo)](http://www.buffalo.edu/) [건축대학](http://ap.buffalo.edu)과 [명지대학교 건축대학](https://arch.mju.ac.kr/)에서 교수로 근무하였습니다.
 
 자세한 경력사항 안내:
 * [Full Curriculum Vitae](https://docs.google.com/document/d/1taio6Weqx4-L7HkPty6WoQpgZYEDqC3TdxDGAQN0uIo/edit?usp=sharing)
