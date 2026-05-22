@@ -1288,4 +1288,8 @@ html {
     color: #A4A4A4;
 }
 
+.email::before {
+    content: attr(data-user) "@" attr(data-d1) "." attr(data-d2) "." attr(data-d3);
+}
+
   /*# sourceMappingURL=jekyll-sleek.css.map */
