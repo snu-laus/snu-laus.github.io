@@ -1,3 +1,12 @@
+- authors: '변상훈, 오정석, 강범준'
+  year: '2026'
+  title: 'LLM 기반 건축가능영역 설계 자동화 - 일조권 사선제한 개정안 효과 시뮬레이션을 중심으로'
+  description: ''
+  display: '도시설계, 27(3), 5-18.'
+  image: 2026_llm.png
+  link:
+    url: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003357135
+
 - authors: '신민주, 강범준'
   year: '2026'
   title: '1970-2024년 서울시 아파트 단지 내 상가 유형의 진화'
