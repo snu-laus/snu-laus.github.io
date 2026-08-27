@@ -1293,3 +1293,29 @@ html {
 }
 
   /*# sourceMappingURL=jekyll-sleek.css.map */
+
+.slide-language {
+  text-align: right;
+  max-width: 960px;
+  margin-bottom: 8px;
+}
+
+#lang-toggle {
+  padding: 6px 14px;
+  border: 1px solid #aaa;
+  border-radius: 6px;
+  background: white;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+#lang-toggle:hover {
+  background: #f5f5f5;
+}
+
+#research-slide {
+  width: 100%;
+  max-width: 960px;
+  aspect-ratio: 960 / 569;
+  border: 0;
+}
