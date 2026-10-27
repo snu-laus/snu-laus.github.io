@@ -1,3 +1,12 @@
+- authors: '김정우, 강범준'
+  year: '2026'
+  title: '서울시 대단지 아파트와 저층주거지 거주자의 생활공간 차이 비교 - 핸드폰 기반 생활이동 데이터를 활용한 광역·근린 스케일 분석'
+  description: ''
+  display: '대한건축학회논문집, 42(10), 157-168.'
+  image: 2026_aik_activityspace.png
+  link:
+    url: https://doi.org/10.5659/JAIK.2026.42.10.157
+
 - authors: 'Su Jin Lee, Juheon Kwon, Ji Hun Lee, Bumjoon Kang'
   year: '2026'
   title: 'Barriers to inclusive subway station use for older adults: An age-comparative video-stimulated recall study identifying universal and age-specific discomfort'
