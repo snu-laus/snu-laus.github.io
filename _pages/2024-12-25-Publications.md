@@ -13,7 +13,12 @@ title: "Publications"
     <strong>{{ publi.authors }}&nbsp;&nbsp;<span class="pubyear">({{ publi.year }})</span></strong>
     <strong>{{ publi.title }}</strong>
     <em>{{ publi.display }}</em><br/>
-    <div class="pub-links">{% if publi.link.url %}<strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong>{% else %}<strong>[link]</strong>{% endif %}{% if publi.link.appendix %} <strong><a href="{{ publi.link.appendix }}">[appendix]</a></strong>{% endif %}{% if publi.link.map %} <strong><a href="{{ publi.link.map }}" target="_blank" rel="noopener noreferrer">[map]</a></strong>{% endif %}</div>
+    <div class="pub-links">
+    {% if publi.link.url %}<strong><a href="{{ publi.link.url }}" target="_blank" rel="noopener noreferrer">[link]</a></strong>{% else %}<strong>[link]</strong>{% endif %}
+    {% if publi.link.appendix %} <strong><a href="{{ publi.link.appendix }}">[appendix]</a></strong>{% endif %}
+    {% if publi.link.map %} <strong><a href="{{ publi.link.map }}" target="_blank" rel="noopener noreferrer">[map]</a></strong>{% endif %}
+    {% if publi.link.pdf %} <strong><a href="{{ publi.link.pdf }}" target="_blank" rel="noopener noreferrer">[pdf]</a></strong>{% endif %}    
+    </div>
   </div>
 </div>
 {% endfor %}
