@@ -42,7 +42,7 @@ We are also recruiting undergraduate research assistants. See the [call for appl
 ## Newly Published
 
 <div class="post-list">
-{% assign all_pubs = site.data.publist_2026 | concat: site.data.publist_2025 %}
+{% assign all_pubs = site.data.publist_2027 | concat: site.data.publist_2026 | concat: site.data.publist_2025 %}
 {% for area in all_pubs limit:3 %}
   {% include areacard1.html %}
 {% endfor %}
